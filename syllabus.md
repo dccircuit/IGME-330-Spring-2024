@@ -1,5 +1,5 @@
 # IGME-330 Rich Media Web Application Development I. 
-## Fall 2023: Syllabus
+## Spring 2024: Syllabus
 
 ## I. Course Catalog Description 
 *This course provides students the opportunity to explore the design and development of media-rich web applications that utilize both static and procedurally manipulated media such as text, images and audio. This course examines client and server-side web development and features common to such applications.  Issues explored include framework characteristics, information management, presentation, interactivity, persistence, and data binding. Programming projects are required. 3 Credits*
@@ -13,17 +13,24 @@
 
 ## III. Instructor and Class Details 
 
-### Sections 01-03 (Jefferson)
-- **IGME-330-02** - TR 9:30AM-10:45AM in MSS-3110
-- **IGME-330-01** - TR 3:30PM-4:45PM in MSS-3110
-- **IGME-330-03** - TR 5:00PM-6:15PM in MSS-3110
-- Instructor Info for Tony Jefferson:
-  - Contact: Slack DM (ONLY) -- here's [a link you can click to reach me easily](https://rit.enterprise.slack.com/user/@U01FESWS866).
-     - Exception: If you need to copy someone else in, email me at tony@mail.rit.edu, but also send a Slack DM, so that I know to go look for it.
-  - Office Location: GOL-2525 (IGM "Main Hall")
-  - Office hours (online):
-    - Monday/Wednesday: 6:00pm – 7:00pm - DM me in Slack to get a meeting going
-    - Also, by appointment
+### Sections 02, 05 (Wheeland)
+- **IGME-330-02** - TR 9:30AM-10:45AM in GOL-2570
+- **IGME-330-05** - TR 2:00PM-3:15PM in GOL-2435
+- Instructor Info for Andy Wheeland:
+  - Contact: Slack DM (ONLY) -- here's [a link you can click to reach me easily](******).
+     - Exception: If you need to copy someone else in, email me at anwigm@rit.edu, but also send a Slack DM, so that I know to go look for it.
+  - Office Location: GOL-2547 (IGM "Main Hall")
+  - Office hours (TBD):
+    - ******
+
+### Sections 01, 04 (Pietruch)
+- **IGME-330-01** - MWF 9:00AM-9:50AM in GOL-2435
+- **IGME-330-04** - MWF 10:00AM-10:50M in GOL-2435
+- Instructor Info for Joseph Pietruch:
+  - Contact: ******
+  - Office Location: ******
+  - Office hours (TBD):
+    - ******
 
 <hr>
 
@@ -32,7 +39,7 @@
 - https://mycourses.rit.edu will contain additional materials, and will also be used for announcements, assignment submissions, and grading
 - keep an eye on the dropboxes in mycourses for assignment due dates
 - Make sure you have accepted the invite to the course Slack:
-  - https://rit-igme-330-123-2231.slack.com/
+  - url coming ******
   - Go ahead and post an Introduction there
   - read this [IGME 330 - Introduction to Slack](https://docs.google.com/document/d/e/2PACX-1vQqjfsmGnvlweL9-ruKtsLn1wExSF2vapG1sVFGBJullHnFvbBYtYb60U8gaE7igzDGyGxzzYCxMmON/pub) document for details.
 
@@ -56,7 +63,7 @@ Attendance is mandatory and you are expected to be on time. Lectures will start 
 
 <hr>
 
-## VI. Grading
+## VI. Grading - THIS IS NOT YET FINALIZED.
 
 ### VI-A. Exams (40%)
 - 3 written exams covering concepts, as well as "write some code" questions. There will be several sample/practice quizzes given to help you study for these
