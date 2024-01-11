@@ -1,4 +1,4 @@
-# IGME-330 - Fall 2023: Schedule
+# IGME-330 - Spring 2024: Schedule
 
 ## Contents
 
@@ -8,24 +8,21 @@
 
 | Week # | Dates | Topics |
 | ------ | ----- | ------ |
-| 01 | **08/29** & **08/31** | Course Intro & Review of Basic Web App Structure |
-| 02 | **09/05** & **09/07** | Code Quality, `XHR`, higher-order methods of array, arrow functions |
-| 03 | **09/12** & **09/14** | ES6 Modules, JSON |
-| 04 | **09/19** & **09/21** | Canvas |
-| 05 | **09/26** & **09/28** | Canvas |
-|    | *Career Fair* | *9/28/23 - [Career Fair Interview Day](https://www.rit.edu/careerservices/university-wide-career-fair) - 8AM-4PM* |
-| 06 | **10/03** & **10/05** | Canvas & Exam #1 <br> ***Exam #1 given in-class on Thursday 10/05*** |
-|    | *Fall Break*   | *Mon. 10/09, Tues. 10/10*  |                
-| 07 | **10/12** | TBA |
-| 08 | **10/17** & **10/19** | TBA |
-| 09 | **10/24** & **10/26** | TBA |
-| 10 | **10/31** & **11/02** | ***Exam #2 given in-class on Thursday 11/02*** |
-| 11 | **011/07** & **11/09** | TBA |
-| 12 | **11/21** | TBA |
-|    | *Thanksgiving Holiday*   | *Wed. 11/22 - Sun. 11/26* |
-| 13 | **11/28** & **11/30** | TBA |
-| 14 | **12/05** & **12/07** | TBA |
-|    |  | **Exam #3 given during Finals week** |
+| 01 | **01/16** & **01/18** | Course Intro & Review of Basic Web App Structure |
+| 02 | **01/23** & **01/25** | Code Quality, `XHR`, higher-order methods of array, arrow functions |
+| 03 | **01/30** & **02/01** | ES6 Modules, JSON |
+| 04 | **02/06** & **02/08** | Canvas |
+| 05 | **02/13** & **02/15** | Canvas |
+| 06 | **02/20** & **02/22** | Canvas |
+| 07 | **02/27** & **02/29** | TBA |
+| 08 | **03/05** & **03/07** | TBA & Exam #1? <br> ***Exam #1 given in-class exact date TBD***|
+| 09 | **03/19** & **03/21** | TBA |
+| 10 | **03/26** & **03/28** | TBA |
+| 11 | **04/02** & **04/04** | TBA |
+| 12 | **04/09** & **04/11** | TBA |
+| 13 | **04/16** & **04/18** | TBA |
+| 14 | **04/23** & **04/25** | TBA |
+|    |  | **Exam #2 given during Finals week** |
 
   
 <hr>
