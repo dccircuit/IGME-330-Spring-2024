@@ -13,6 +13,15 @@
 
 ## III. Instructor and Class Details 
 
+### Sections 01, 04 (Pietruch)
+- **IGME-330-01** - MWF 9:00AM-9:50AM in GOL-2435
+- **IGME-330-04** - MWF 10:00AM-10:50M in GOL-2435
+- Instructor Info for Joseph Pietruch:
+  - Contact: ******
+  - Office Location: ******
+  - Office hours (TBD):
+    - ******
+
 ### Sections 02, 05 (Wheeland)
 - **IGME-330-02** - TR 9:30AM-10:45AM in GOL-2570
 - **IGME-330-05** - TR 2:00PM-3:15PM in GOL-2435
@@ -23,14 +32,14 @@
   - Office hours (TBD):
     - ******
 
-### Sections 01, 04 (Pietruch)
-- **IGME-330-01** - MWF 9:00AM-9:50AM in GOL-2435
-- **IGME-330-04** - MWF 10:00AM-10:50M in GOL-2435
-- Instructor Info for Joseph Pietruch:
+### Sections 03 (Warren)
+- **IGME-330-03** - TR 11:00AM-12:15PM in ORN-1380
+- Instructor Info for Ann Warren:
   - Contact: ******
   - Office Location: ******
   - Office hours (TBD):
     - ******
+
 
 <hr>
 
