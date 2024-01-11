@@ -48,7 +48,7 @@
 - https://mycourses.rit.edu will contain additional materials, and will also be used for announcements, assignment submissions, and grading
 - keep an eye on the dropboxes in mycourses for assignment due dates
 - Make sure you have accepted the invite to the course Slack:
-  - url coming ******
+  - https://rit-igme-330-2235.slack.com
   - Go ahead and post an Introduction there
   - read this [IGME 330 - Introduction to Slack](https://docs.google.com/document/d/e/2PACX-1vQqjfsmGnvlweL9-ruKtsLn1wExSF2vapG1sVFGBJullHnFvbBYtYb60U8gaE7igzDGyGxzzYCxMmON/pub) document for details.
 
