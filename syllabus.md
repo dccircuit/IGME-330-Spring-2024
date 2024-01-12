@@ -131,7 +131,7 @@ Final course grades are determined using the following scale:
 
 
 ### VII-D. Generative AI ([ChatGPT](https://chat.openai.com/) etc)
-- Coding solutions must be your own work, which means you cannot use generative AI tools in any manner to write your programs for you. When learning fundamental skills, you need to ensure that *you* master the basics. If we doubt authorship, we may ask you to explain the code or re-create aspects of the code in one of our labs – you must show that you have mastered the fundamentals. 
+- Coding solutions must be your own work, which means you cannot use generative AI tools in any manner to write your programs for you.  Doing so would count as Cheating above.  When learning fundamental skills, you need to ensure that *you* master the basics. If we doubt authorship, we may ask you to explain the code or re-create aspects of the code in one of our labs – you must show that you have mastered the fundamentals. 
 
 - We’ll occasionally work with some of those tools so that you can learn to use them effectively. In general, however, before resorting to the use of AI to create content submitted in this class you should communicate with your instructor. If and when you do use AI assistance, you should explicitly acknowledge so and describe how and to what extent AI was utilized in your documentation.
 <hr>
