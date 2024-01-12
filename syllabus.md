@@ -19,27 +19,23 @@
 - Instructor Info for Joseph Pietruch:
   - Contact: ******
   - Office Location: ******
-  - Office hours (TBD):
-    - ******
+  - Office Hours (TBD):
 
 ### Sections 02, 05 (Wheeland)
 - **IGME-330-02** - TR 9:30AM-10:45AM in GOL-2570
 - **IGME-330-05** - TR 2:00PM-3:15PM in GOL-2435
 - Instructor Info for Andy Wheeland:
-  - Contact: Slack DM (ONLY) -- here's [a link you can click to reach me easily](******).
+  - Contact: Slack DM (ONLY) -- here's [a link you can click to reach me easily](https://rit.enterprise.slack.com/user/@W018BN6SZ6X).
      - Exception: If you need to copy someone else in, email me at anwigm@rit.edu, but also send a Slack DM, so that I know to go look for it.
   - Office Location: GOL-2547 (IGM "Main Hall")
-  - Office hours (TBD):
-    - ******
+  - Office Hours: _Virtual Only_ (Somewhat tentative: Mondays 3-5pm, Fridays 1-2pm)
 
 ### Sections 03 (Warren)
 - **IGME-330-03** - TR 11:00AM-12:15PM in ORN-1380
 - Instructor Info for Ann Warren:
   - Contact: ******
   - Office Location: ******
-  - Office hours (TBD):
-    - ******
-
+  - Office Hours (TBD):
 
 <hr>
 
@@ -72,30 +68,32 @@ Attendance is mandatory and you are expected to be on time. Lectures will start 
 
 <hr>
 
-## VI. Grading - THIS IS NOT YET FINALIZED.
+## VI. Grading
 
-### VI-A. Exams (40%)
-- 3 written exams covering concepts, as well as "write some code" questions. There will be several sample/practice quizzes given to help you study for these
+### VI-A. Exams (30%)
+- There will be two main exams (You can think of them as a midterm and final) covering concepts, as well as "write some code" questions. You will be given various styles of quizzes to help you study for these.
 
-### VI-B. Homework Assignments (30%)
-- Substantial assignments that you will given a week to complete, 5 or 6 of these will be assigned during the semester
+### VI-B. Quizzes (10%)
+- There will be a variety of low-pressure quiz experiences.  There will some combination of:
+  - Study Quizzes: based on readings & taken online with multiple attempts allowed
+  - Practice Quizzes: taken in class with a limited timeframe, but for a relatively low grade value, and
+  - Take-home Quizzes: one-attempt quizzes with open access to materials while you take it.
 
-### VI-C. Practice Exercises (20%)
-- there will be approximately 20 of these take-home exercises assigned during the semester
+### VI-C. Exercises (20%)
+- There will be approximately 20 exercises assigned during the semester that help you learn and practice concepts and get ready for the major "homeworks".  Some may be worth more or less than others and they may be of various types:
+  - Practice Exercises: Exercises that help you build something similar to what you'll need to do in the future.
+  - Check-off Exercises: Exercises started in class that we will ask you to complete and submit.
+  - Other Exercises: Activities or Assignments that you'll be asked to complete and submit (or answer a couple questions about) to round out your web development knowledge or pick up an extra skill that you might want to use on a homework.
 
-### VI-D. In-class/take-home Checkoffs (10%)
-- These will often be small in-class demos or challenges that you will need to post prior to leaving class for the day
-- Others will be short out-of-class assignments such as "Watch this XHR/JSON video walkthough and get the code working"
+### VI-B. Homework Assignments (36%)
+- Sometime referred to as "mini-projects"  Substantial assignments that you will given a week or so to complete, approximately 4 of these will be assigned during the semester.  When possible we'll try to provide ways for you to alter the project in a way that makes it better as a portfolio piece.
 
-### VI-E. Attendance/Participation
-- Missing class (or being habitually late) will often do harm to your performance in this class. Excessive absences can result in a deduction from your final course average: 
-  - 3 absences = -5% from final course average
-  - 4 absences = -10% from final course average
-  - 5 absences = -20% from final course average
-  - An so on ...
-  - Being late counts as 1/2 of an absence
-  - You can request to be excused from a class meeting for a school or career related opportunity  - write your instructor *in advance* of that class meeting. 
-  - If you can't attend class for any reason, always let us know *in advance*. But be advised that if you are not given advance permission by your instructor to miss a class meeting, an absence will not be excused unless there is documentation of the reasons for that absence by RIT
+### VI-E. Attendance/Participation (4%)*
+- If you are always on time for class, have no unexcused absences, and participate in any critiques or Slack-based activities that are expected, you'll get these 4 percentage points.
+  - Each unexcused absence will deduct 1%, considerable lateness will deduct 0.5%.  After you've lost these 4 points, * **each additional occurance will deduct 5% from your final course average.**
+- Missing class (or being habitually late) will often do harm to your performance in this class. 
+  - You can request to be excused from a class meeting for a school or career related opportunity - write your instructor (via Slack DM) *in advance* of that class meeting. 
+  - If you can't attend class for any reason, always let us know *in advance*. Simply telling us *afterward* that "I didn't come cause I was too sick", for example, will not automatically excuse your absence.
 
 
 ### VI-F. Grade Scale
@@ -115,19 +113,27 @@ Final course grades are determined using the following scale:
 ## VII. More grading policies
 
 ### VII-A. Late assignments
-- Assignments will not be accepted late without the prior approval of the instructor
+- Assignments will not be accepted late without the prior approval of the instructor.  Extension policies may vary by professor.  Contact your professor via Slack if you have special circumstances that may require an assignment extension.
 
 ### VII-B. Policy on Incomplete Grades
 - Incomplete grades will be given only in the most exceptional circumstances, soley for issues that arise AFTER the 'W' deadline has passed, and then only by prior arrangement with the professor. Being overcommitted and/or not having enough time to complete your coursework is not sufficient justification for an "I". Instead, meet with the professor as early as possible in the semester if you're having difficulty. 
 
-###  VII-C. Academic Dishonesty
-- The course policy on academic dishonesty is simple: ***Do your own work***. If you get caught cheating or plagiarizing or commiting duplicate submission without permission, you get an "F" as a grade for the course, a letter detailing the incident goes into your records folder, and you are immediately removed from the class. (If this is a second occurrence during your career at RIT, the penalties are harsher.) Please review RIT's policy on academic dishonesty: 
-[http://www.rit.edu/~w-policy/sectionD/D8.html](http://www.rit.edu/~w-policy/sectionD/D8.html)
-- **Duplicate submission** is the submitting of the same or similar work for credit in more than one course without prior approval of the instructors for those same courses. *If you took IGME-330 previously, you **may not** hand in code that you previously submitted (for example, a previous version of an Audio Visualizer, or game, or web app)*
+### VII-C. Academic Integrity
+- As part of the RIT academic community, it is imperative that you maintain the highest standards of academic honesty in this course. This policy outlines our commitment to uphold academic integrity and the consequences of violating it.
+  - Cheating: Engaging in any form of fraudulent or deceptive academic act, including falsification of data and unauthorized possession or use of materials, sources, or tools.  See also our Generative AI policy (next section).
+  - Collusion: Inappropriate collaboration with others in work that is meant to be completed individually.
+  - Plagiarism: Representing the ideas of others as your own without proper attribution.
+  - Duplicate Submission: Submitting work in this course that you have previously submitted in this course or another, without prior approval. Importantly, if you have previously taken this course and are retaking it (whether due to a withdrawal or to improve a grade), all submitted work must be original and created anew for this semester. Resubmitting past work, even your own, without explicit permission is not allowed and will be treated as a breach of academic integrity.
 
-### VI-D. Generative AI ([ChatGPT](https://chat.openai.com/) etc)
-- Coding solutions must be your own work, which means you cannot use generative AI tools in any manner to write your programs. When learning fundamental skills, you need to ensure that you master the basics. If I doubt authorship, I may ask you to explain the code or re-create aspects of the code in one of our labs – you must show that you have mastered the fundamentals.
+- Consequences: Breaches of academic integrity, including but not limited to cheating, collusion, plagiarism, and duplicate submission, will result in serious disciplinary action. This may range from failing the assignment to potentially failing the course, depending on the violation’s severity. Each case will be carefully reviewed in accordance with the RIT Academic Integrity Policy.
 
+- For full details on the policy and your responsibilities within it, please visit [RIT's Academic Integrity website](https://www.rit.edu/academicintegrity/).
+
+
+### VII-D. Generative AI ([ChatGPT](https://chat.openai.com/) etc)
+- Coding solutions must be your own work, which means you cannot use generative AI tools in any manner to write your programs for you. When learning fundamental skills, you need to ensure that *you* master the basics. If we doubt authorship, we may ask you to explain the code or re-create aspects of the code in one of our labs – you must show that you have mastered the fundamentals. 
+
+- We’ll occasionally work with some of those tools so that you can learn to use them effectively. In general, however, before resorting to the use of AI to create content submitted in this class you should communicate with your instructor. If and when you do use AI assistance, you should explicitly acknowledge so and describe how and to what extent AI was utilized in your documentation.
 <hr>
 
 ## VIII. Important RIT Deadlines
