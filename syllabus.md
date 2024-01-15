@@ -18,7 +18,6 @@
 - **IGME-330-04** - MWF 10:00AM-10:50M in GOL-2435
 - Instructor Info for Joe Pietruch (he/they):  [(joh PEE-trik)](https://namedrop.io/joepietruch)
   - Contact: jcpigm@rit.edu, 585-270-1119 (text/call)
-  - Office Location: ******
   - Office Hours: Available by appointment. I have made myself very available - schedule a time with https://calendar.app.google/FY1Z7bBzUHCAAjid9. These calendar invites will arrive from joseph.pietruch@mx.com since I need to coordinate office hours with my work calendar.
 
 ### Sections 02, 05 (Wheeland)
