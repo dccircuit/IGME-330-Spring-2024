@@ -16,10 +16,11 @@
 ### Sections 01, 04 (Pietruch)
 - **IGME-330-01** - MWF 9:00AM-9:50AM in GOL-2435
 - **IGME-330-04** - MWF 10:00AM-10:50M in GOL-2435
-- Instructor Info for Joseph Pietruch:
-  - Contact: ******
-  - Office Location: ******
-  - Office Hours (TBD):
+- Instructor Info for Joe Pietruch:
+  - Contact: Slack DM (strongly preferred) -- here's [a link you can click to reach me easily](https://rit.enterprise.slack.com/user/@U06C1CRJ5KQ).
+     - Exception: If you need to copy someone else in, email me at jcpigm@rit.edu, but also send a Slack DM, so that I know to go look for it.
+  - Office Location: Zoom.
+  - Office Hours: By appointment. Schedule with https://calendar.app.google/FY1Z7bBzUHCAAjid9 ... the invites will arrive from joseph.pietruch@mx.com (since I need to coordinate office hours with my work calendar).
 
 ### Sections 02, 05 (Wheeland)
 - **IGME-330-02** - TR 9:30AM-10:45AM in GOL-2570
