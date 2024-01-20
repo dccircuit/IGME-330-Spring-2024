@@ -52,7 +52,7 @@
 
 5) Submission ***(No dropbox submission this semester, Spring 2024)***
 - name the file **lastName-firstInitial-greeter-2.html**
-- ZIP and POST it to the myCourses dropbox
+- ~~ZIP and POST it to the myCourses dropbox~~
   - But you should certainly still do it as we may build on it further in the weeks ahead.
 
 <hr>
