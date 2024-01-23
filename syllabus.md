@@ -16,7 +16,7 @@
 ### Sections 01, 04 (Pietruch)
 - **IGME-330-01** - MWF 9:00AM-9:50AM in GOL-2435
 - **IGME-330-04** - MWF 10:00AM-10:50M in GOL-2435
-- Instructor Info for Joe Pietruch:
+- Instructor Info for Joe Pietruch (he/they):  [(joh PEE-trik)](https://namedrop.io/joepietruch)
   - Contact: Slack DM (strongly preferred) -- here's [a link you can click to reach me easily](https://rit.enterprise.slack.com/user/@U06C1CRJ5KQ).
      - Exception: If you need to copy someone else in, email me at jcpigm@rit.edu, but also send a Slack DM, so that I know to go look for it.
   - Office Location: Zoom.
@@ -25,7 +25,7 @@
 ### Sections 02, 05 (Wheeland)
 - **IGME-330-02** - TR 9:30AM-10:45AM in GOL-2570
 - **IGME-330-05** - TR 2:00PM-3:15PM in GOL-2435
-- Instructor Info for Andy Wheeland:
+- Instructor Info for Andy Wheeland (he/him):
   - Contact: Slack DM (ONLY) -- here's [a link you can click to reach me easily](https://rit.enterprise.slack.com/user/@W018BN6SZ6X).
      - Exception: If you need to copy someone else in, email me at anwigm@rit.edu, but also send a Slack DM, so that I know to go look for it.
   - Office Location: GOL-2547 (IGM "Main Hall")
@@ -33,10 +33,9 @@
 
 ### Sections 03 (Warren)
 - **IGME-330-03** - TR 11:00AM-12:15PM in ORN-1380
-- Instructor Info for Ann Warren:
-  - Contact: ******
-  - Office Location: ******
-  - Office Hours (TBD):
+- Instructor Info for Ann Warren
+  - Office Location: GOL-2273
+  - Office Hours: By appt, Zoom, Discord (Ann Warren)
 
 <hr>
 
