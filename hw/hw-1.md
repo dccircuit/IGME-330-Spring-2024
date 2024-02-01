@@ -78,20 +78,6 @@
 
 <hr>
 
-## VI. Rubric
+## VI. Rubric -- See Assignment Rubric in myCourses Dropbox 
 
-| Deduction  | Reason  |
-|---|---|
-| -1% to ??%  | Section I. see rubric linked above |
-| -20%  | Section II. above not complete |
-| -5%  | Section III. per code standard violation |
-| -5%  | Section IV-1. per function not converted |
-| -10%  | Section IV-2. not done |
-| -10%  | Section IV-3. not done |
-| -30%  | Section IV-4. not done |
-| -20%  | Clicking button does not show random babble |
-| -20%  | Errors in console  |
-| -20%  | App does not display babble when page first loads  |
-| -10%  | App loads JSON data every time a button is clicked (instead of just loading it ONCE)  |
-| -10%  | App folder is not named **lastName-firstInitial-hw1**  |
 
