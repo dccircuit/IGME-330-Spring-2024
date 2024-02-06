@@ -11,4 +11,4 @@
 <hr>
 
 ## II. Submission --
-- ZIP and post the ***lastName-firstInitial*-pe-4** folder to myCourses
+- ZIP and post the ***lastName-firstInitial*-pe-04** folder to myCourses
