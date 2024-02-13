@@ -1,4 +1,4 @@
-# Checkoff - Refactor the Canvas Screensaver
+# PE-05b - Refactor the Canvas Screensaver
 
 ## I. Start code
 - Your starting point will be the completed version. of [PE-05 - Canvas Screensaver](../pe/pe-05.md)
@@ -114,7 +114,6 @@
 ## V. Submission
 
 - ZIP and post the folder to myCourses
-- Grade-wise, this is worth TWO checkoffs
 - The directory structure should look like this:
 
 ![screenshot](_images/refactor-screensaver-2.png)
