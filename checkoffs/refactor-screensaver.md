@@ -1,4 +1,4 @@
-# PE-05b - Refactor the Canvas Screensaver
+# PE-05B - Refactor the Canvas Screensaver
 
 ## I. Start code
 - Your starting point will be the completed version. of [PE-05 - Canvas Screensaver](../pe/pe-05.md)
