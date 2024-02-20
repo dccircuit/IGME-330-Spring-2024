@@ -1,5 +1,7 @@
 # HW-2 - Audio Visualizer - *Ultimate Version*
 
+## PREVIEW VERSION!  There are additional updates yet to be made to this assignment, especially in terms of scoring, but perhaps elsewhere.
+
 ## Overview
 - Build your ***ultimate version*** of the Audio Visualizer!
 - Your starting point MUST be the "done" version of [PE-07 - Audio Visualizer](../pe/pe-07.md)
