@@ -1,6 +1,6 @@
 # HW-2 - Audio Visualizer - *Ultimate Version*
 
-## PREVIEW VERSION!  There are additional updates yet to be made to this assignment, especially in terms of scoring, but perhaps elsewhere.
+## Point values have been accurately adjusted... A final rubric will be created in myCourses before the weekend is over.
 
 ## Overview
 - Build your ***ultimate version*** of the Audio Visualizer!
@@ -21,7 +21,7 @@
 
 ---
 
-## II. User Experience Requirements (35%)
+## II. User Experience Requirements (25%)
 - Add 2 Audio Effect nodes to the audio routing graph: 
   - for example, a "Bass" and "Treble" node - which would be instances of [BiquadFilterNode](https://developer.mozilla.org/en-US/docs/Web/API/BiquadFilterNode)
   - these have been reviewed in **Web Audio WalkThrough** (linked in VII-B. below)
@@ -32,7 +32,7 @@
 
 ---
 
-##  III. Code Requirements (35%)
+##  III. Code Requirements (25%)
 
 - Add at least 2 instances of a *Sprite* to the AV
   - Create an ES6 class with `update()` and `draw()` methods (similar to what we did with `CircleSprite`, and in the "Phyllo Classy" checkoff)
@@ -42,7 +42,7 @@
 
 ---
 
-## IV. App Data requirements (15%)
+## IV. App Data requirements (10%)
 
 - Create an external JSON file named **av-data.json**
   - Place this JSON file in a folder named **data/**, so that the path to it is **data/av-data.json**
@@ -62,7 +62,7 @@
 ---
 
 
-## V. Aesthetic Requirements (0%-15%)
+## V. Aesthetic Requirements (15%)
 - Get rid of any vestigal elements of the Audio Visualizer assignment that are less that aesthetically pleasing:
   - for example, that gradient is pretty garish. Either get rid of it entirely or replace it with something more subtle
   - the "pulsing" arcs are not bad, but you could probably modify that code to get something more pleasing, and something that does not look like everyone else's Audio Visualizer
@@ -75,15 +75,15 @@
   - gradients and images - animated or otherwise
   - interesting applications of `ctx.translate()`, `ctx.rotate()` and `ctx.scale()`
   - resources - [Canvas IV - Gradients & Bezier Curves](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-4.md)
-- ***To get higher than a 0% in this category, changes MUST be substantially improve the user experience (including aesthetics), appearance and/or functionality of the visualization.***
+- ***To obtain a score in this category, changes MUST be substantially improve the user experience (including aesthetics), appearance and/or functionality of the visualization.***
   - For example, merely changing the colors and the size of the pulsing circles, or modifying the background gradient from one garish combination of colors to another garish combination of colors, will not earn any points in this category
   - For maximum points in this category, think "passion project" or "portfolio piece" that is distinctly different from PE-07 and is something you could show to a potential employer
   
 ---
 
-##  VI. Documentation Requirements
+##  VI. Documentation Requirements (10%)
 
-- Document the following in a plain-text file names **documentation.txt**
+- Document the following in a plain-text file named **documentation.txt**
   - II. Tell us about the 2 Audio Effect nodes you added to the audio routing graph
   - III. Tell us your Sprite's class name, what it looks like/what it does in the visualization
   - IV. Tell us what app data you put in your **av-data.json** file
@@ -149,24 +149,22 @@ const drawLines = (ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 
 ---
 
-## VIII. Rubric
+## VIII. Updated Rubric - By Sunday, there will be a new myCourses rubric attached to dropbox with descriptions of each level.
 
-- **I. Refactor the code to our course coding standards**
-  - (-2%) per code style violation
-- **II. User Experience Requirements - 35%**
-- **III. Code Requirements - 35%** 
-- **IV. App Data requirements - 15%**
-- **V. Aesthetic Requirements - 0%-15%**
-- **VI. Documentation Requirements**
-  - (-10%) if not done
-- ***Starting point is NOT PE-07 Audio Visulizer - (-100%)***
+- **I. Refactor the code to our course coding standards 10%**
+- **II. User Experience Requirements - 25%**
+- **III. Code Requirements - 25%** 
+- **IV. App Data requirements - 10%**
+- **V. Aesthetic Requirements - 15%**
+- **VI. Documentation Requirements - 10%**
+- ***Starting point is NOT PE-07 Audio Visualizer - (-100%)***
+- ***Remaining 5% is following proper submission expectations see below***
 
 ---
 
 ## IX. Submission
 
 - Put the files from above into a parent folder named ***lastName*-*firstInitial*-hw2**
-  - (-5%) for a misnamed folder
 - ZIP the folder and post to myCourses
 
 ---
