@@ -139,7 +139,6 @@ const drawLines = (ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 5. Other Tips:
     - Certain drawing could go beyond the raw data for the various bins (frequency ranges), it could instead be aggregate data such as average loudness of all frequencies, or changes in the average of certain frequencies, or tied to beat detection.
     - You can use `ctx.scale()` to squash or stretch shapes - to create ovals for example
-    - Effects could implemented on a second canvas like we did in the "Paint" Demo (see mycourses week 13 for files)
     - Not everything has to be drawn at 60 frames/second - use `setTimeout()` or similar to achieve this 
    
 6. Get inspired!
