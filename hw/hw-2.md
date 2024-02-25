@@ -1,6 +1,6 @@
 # HW-2 - Audio Visualizer - *Ultimate Version*
 
-## Point values have been accurately adjusted... A final rubric will be created in myCourses before the weekend is over.
+#### Assignment fully updated, scoring rubric can be found attached to Assignment Dropbox in myCourses.
 
 ## Overview
 - Build your ***ultimate version*** of the Audio Visualizer!
@@ -148,8 +148,9 @@ const drawLines = (ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 
 ---
 
-## VIII. Updated Rubric - By Sunday, there will be a new myCourses rubric attached to dropbox with descriptions of each level.
+## VIII. Updated Rubric - Attached to Assignment dropbox in myCourses.
 
+### Summary:
 - **I. Refactor the code to our course coding standards 10%**
 - **II. User Experience Requirements - 25%**
 - **III. Code Requirements - 25%** 
