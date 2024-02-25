@@ -15,7 +15,7 @@
   - `playButton` to `btn-play`
   - `volumeSlider` to `slider-volume`
   - `gradientCB` to `cb-gradient` and so on
-- Convert ALL regular functions (delared with the `function` keyword) to arrow functions
+- Convert ALL regular functions (declared with the `function` keyword) to arrow functions
 - ***But don't worry about the sound files names - they don't have to follow the naming standards***
 
 
@@ -83,14 +83,14 @@
 
 ##  VI. Documentation Requirements (10%)
 
-- Document the following in a plain-text file named **documentation.txt**
-  - II. Tell us about the 2 Audio Effect nodes you added to the audio routing graph
+- Document the following in a plain-text file named **documentation.txt**  -- alternatively, you could create a **documentation.html** file that includes the same information and is linked to from your visualizer, but this is not required.
+  - II. Tell us about the 2 Audio Effect nodes you added to the audio routing graph.
   - III. Tell us your Sprite's class name, what it looks like/what it does in the visualization
   - IV. Tell us what app data you put in your **av-data.json** file
   - V. Tell us how you improved the aesthetics of the app over the AV HW:
     - ***be sure to give yourself a grade for this section, between 0% and 15%***
     - 0% would be if there was not a meaningful improvement over the AV HW
-    - 15% would be substantial improvement over the AV HW - a "wow" experience
+    - 15% would be substantial improvement over the AV HW - a "wow" (portfolio-worthy) experience
     - and everything in between
 
 ---
