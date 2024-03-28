@@ -1,7 +1,6 @@
-# Checkoff - TypeScript Practice
+# TypeScript Practice
 
-*This was an assignment last semester.  This Spring, we might just work on it together in class on 
-Thursday.  It certainly wouldn't hurt for you to try to figure it out on your own.*
+*We might work on this together in class on Thursday.  It certainly wouldn't hurt for you to try to figure it out on your own.*
 
 ## I. Overview
 - You will utilize the TypeScript "playground" to add an interface, enum, and strong typing to the code fragment below
