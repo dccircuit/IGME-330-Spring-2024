@@ -18,7 +18,7 @@
 - In **webpack.config.js** `entry:` change the filename from **main.ts** to whatever the "entry point" file of your app is
 - Type: `npm run build`
   - ERRORS!
-    - ***ERROR TS18003: No inputs were found in config file 'tsconfig.json'. Specified 'include' paths were '["src/**/*"]' and 'exclude' paths were '[]'***
+    - ***ERROR TS18003: No inputs were found in config file 'tsconfig.json'. Specified 'include' paths were '["src/\*\*/\*"]' and 'exclude' paths were '[]'***
     - ***error while parsing tsconfig.json***
   - you may have previously noticed an error in **tsconfig.json** - basically, `npm` and `typescript` are complaining because they can't find any Typescript **.ts** files
 - Pathetically, there is a very simple solution:
