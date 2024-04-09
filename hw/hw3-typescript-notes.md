@@ -15,7 +15,7 @@
     - [VI-A. ES6 classes/sprites with TypeScript](#vi-a-es6-classessprites-with-typescript)
     - [VI-B. Function parameter *destructuring*](#vi-b-function-parameter-destructuring)
     - [VI-C. Function parameter *destructuring* with TypeScript](#vi-c-function-parameter-destructuring-with-typescript)
-    - [VI-D. Organize your **src/** folder](#vi-d-organize-your-src-folder-to-look-something-like-this)
+    - [VI-D. Organize your **src/** folder to look something like this](#vi-d-organize-your-src-folder-to-look-something-like-this)
 
 </details>
 
