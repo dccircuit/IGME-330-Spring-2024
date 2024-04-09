@@ -1,5 +1,21 @@
 # HW-3 - Web App refactor
 
+<details>
+<summary>Table of Contents</summary>
+  
+1. [Overview](#overview)
+2. [Choose a Web App to Refactor](#i-choose-a-web-app-to-refactor)
+3. [Refactor the App's HTML](#ii-refactor-the-apps-html-10)
+4. [Refactor the JS](#iii-refactor-the-js-10)
+5. [Refactor the CSS with Bulma and Add an about.html Page](#iv-refactor-the-css-with-bulma-and-add-an-abouthtml-page-35)
+6. [Choose a Language to Code In](#v-choose-a-language-to-code-in-0-15)
+7. [Bundle the Code](#vi-bundle-the-code-15)
+8. [The App Still Works](#vii-the-app-still-works-15)
+9. [Documentation](#viii-documentation)
+10. [Submission](#ix-submission)
+
+</details>
+
 ---
 
 ## Overview
