@@ -1,5 +1,25 @@
 # HW-3 - Converting an existing project to TypeScript
 
+<details>
+<summary>Table of Contents</summary>
+
+- [I. Get ready!](#i-get-ready)
+- [II. Set up the TypeScript/Webpack tooling](#ii-set-up-the-typescriptwebpack-tooling)
+- [III. Fix TypeScript errors](#iii-fix-typescript-errors)
+    - [III-A. Fixing errors in canvas.ts](#iii-a-fixing-errors-in-canvasts)
+    - [III-B. Fixing errors in main.ts](#iii-b-fixing-errors-in-maints)
+    - [III-C. Fixing errors in audio.ts](#iii-c-fixing-errors-in-audiots)
+- [IV. Test the converted app in the browser](#iv-test-the-converted-app-in-the-browser)
+- [V. Keep re-factoring the code](#v-keep-re-factoring-the-code)
+- [VI. Keep on going!](#vi-keep-on-going)
+    - [VI-A. ES6 classes/sprites with TypeScript](#vi-a-es6-classessprites-with-typescript)
+    - [VI-B. Function parameter *destructuring*](#vi-b-function-parameter-destructuring)
+    - [VI-C. Function parameter *destructuring* with TypeScript](#vi-c-function-parameter-destructuring-with-typescript)
+    - [VI-D. Organize your **src/** folder](#vi-d-organize-your-src-folder)
+
+</details>
+
+
 ---
 
 ## I. Get ready!
