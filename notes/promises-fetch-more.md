@@ -126,8 +126,6 @@ async function fetchData(url) {
 ```
 In this example, `await` is used to wait for the `fetch` promise to resolve or reject, and errors are handled using a `try-catch` block, which is significantly easier to read and maintain compared to chaining `.then()` and `.catch()`.
 
-Note: The `async` keyword is added at the beginning of a function to indicate that it handles asynchronous operations and allows it to return a Promise, enabling the use of the `await` keyword within. This setup not only facilitates the execution of asynchronous tasks, such as network requests, in a sequential and more readable manner but also simplifies error handling using traditional try-catch blocks. Overall, `async` transforms complex asynchronous code into cleaner, more manageable syntax, closely resembling synchronous operations, thereby enhancing readability and maintainability.
-
 ### Section 4: Deep Dive into Async-Await and Error Handling
 Now that you understand the basics of async-await, let's explore how to use this powerful syntax to manage more complex asynchronous scenarios and incorporate robust error handling.
 
