@@ -80,7 +80,7 @@
 ## VI. Bundle the code (15%)
 - For **option #1** (ES6 Vanilla JS) above, be sure to transpile the code to ES5 and bundle it per these instructions: [Bundling & Transpiling JS](../notes/bundling-transpiling.md)
 - For **option #2** (TypeScript) above, be sure to transpile the code to ES5 and bundle it per these instructions: [Intro to TypeScript](https://github.com/tonethar/IGME-330-Master/blob/master/notes/intro-typescript.md)
-- For **option #3** (React) above, be sure to transpile the code to ES5 and bundle it per these instructions: [Intro to React#v-bootstrapping-a-react-project](../notes/react-intro.md#v-bootstrapping-a-react-project)
+- For **option #3** (React) above, be sure to transpile the code to ES5 and bundle it per these instructions: [Intro to React#v-bootstrapping-a-react-project](https://github.com/tonethar/IGME-330-Master/blob/master/notes/react-intro.md#v-bootstrapping-a-react-project)
   
 ---
 
