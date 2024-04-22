@@ -182,7 +182,7 @@ const showFeatureDetails = (id) => {
 ## V. Showing feature details when a marker is clicked on
 
 - When a marker is clicked on, we want to show the park name, address, phone number and description in the "Info" row of the app
-- To do this, we will need to write code that searches the `features` array for the park that matches the `id` of the marker that was clciked on 
+- To do this, we will need to write code that searches the `features` array for the park that matches the `id` of the marker that was clicked on 
 
 ### V-A. Add HTML for the bottom "Info" row
 
