@@ -19,6 +19,10 @@
       - Playground, CDN, React *Todo App* with Vite
     - [React Amiibo App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/react-amiibo-app.md)
       - Bootstrapped a React project with Vite
+  - Fetch/Promises
+    - [Ajax-5 - the `fetch()` API](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-5.md)
+    - [Ajax-6 - async & await with the `fetch()` API](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-6.md)
+    - [Ajax-7 - JavaScript Promises](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-ajax-7.md)
   - Bulma
     - [PE-08 - Bulma I - Intro to Bulma](../pe/pe-08.md)
   - Mapbox
