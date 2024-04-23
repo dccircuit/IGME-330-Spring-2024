@@ -29,7 +29,6 @@
     - [PE-10 - Firebase](../pe/pe-10.md)
     - [Week 14B - Firebase Notes](../weekly/14B.md#ii-firebase-notes)
 
-
 <hr>
 
 ## II. What's the format?
@@ -39,13 +38,7 @@
 
 <hr>
 
-## III. What's NOT on it?
-
-- There will not be any "write canvas code" questions on the exam
-
-<hr>
-
-## IV. Other notes.
+## III. Other notes.
 
 - Plan to be on time.  You should have plenty of time to take the Final Exam.  Emergency late arrivals can start late, but won’t be allowed time beyond what is left available.
 - If you have extended time due to an accommodation, we still recommend taking the exam in the regular time slot.  Because the exam is designed for much shorter than the 2.5 hr time slot, you should have plenty of time, plus there are other benefits to being in person.
