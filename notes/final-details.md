@@ -4,6 +4,10 @@
 - Finals Week (check SIS for date/time/location)
 - *Anything* and *everything* we have covered weeks 1-15A of this semester is fair game
 - Since the first exam we've covered:
+  - Node.js for tooling
+    - [Command Line Tips](https://github.com/tonethar/IGME-330-Master/blob/master/notes/command-line-tips.md)
+    - [Intro to Node.js - Part I](https://github.com/tonethar/IGME-330-Master/blob/master/notes/intro-to-node-1.md)
+    - [Intro to Node.js - Part II](https://github.com/tonethar/IGME-330-Master/blob/master/notes/intro-to-node-2.md)
   - Transpiling
     - [Transpiling code with Webpack & Babel](bundling-transpiling.md)
   - TypeScript
