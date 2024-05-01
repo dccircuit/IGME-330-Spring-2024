@@ -28,7 +28,7 @@
   - Mapbox
       - [PE-09 - Maps & Mapbox](../pe/pe-09.md)
   - `window.localStorage`
-    - [`localStorage` Practice - Storage List!](localstorage-practice.md)
+    - [`localStorage` Practice - Storage List!](https://github.com/tonethar/IGME-330-Master/blob/master/notes/localstorage-practice.md)
   - Firebase
     - [PE-10 - Firebase](../pe/pe-10.md)
     - [Week 14B - Firebase Notes](../weekly/14B.md#ii-firebase-notes)
